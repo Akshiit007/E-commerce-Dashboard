@@ -3,11 +3,11 @@
 An interactive Power BI dashboard developed to analyze and visualize e-commerce sales data. The dashboard provides insights into sales performance, profitability, customer purchasing patterns, and product category trends through dynamic visualizations and filters. It enables businesses to monitor key metrics and make data-driven decisions efficiently.
 
 🛠️ Tech Stack
-Power BI Desktop – Dashboard development and visualization
-Power Query – Data cleaning and transformation
-DAX (Data Analysis Expressions) – Measures and calculated columns
-Data Modeling – Building relationships between tables
-Excel/CSV – Source data storage
+Power BI Desktop – Dashboard development and visualization;
+Power Query – Data cleaning and transformation;
+DAX (Data Analysis Expressions) – Measures and calculated columns;
+Data Modeling – Building relationships between tables;
+Excel/CSV – Source data storage;
 
 📂 Data Source
 orders : https://drive.google.com/file/d/1Eb6UtCE3Ra_DXDw4zuDNqhp7n_h6mtfV/view?usp=drive_link
